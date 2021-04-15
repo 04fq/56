@@ -24,12 +24,12 @@
 * cd Desktop
 * git clone https://github.com.04fq/56.git
 * cd 56
-* pip install -r requiremant.txt
+* pip install -r requirement.txt
 * python 56.py  
 ## Android (Termux) 👽
 * git clone https://github.com.04fq/56.git
 * cd 56
-* pip install -r requiremant.txt
+* pip install -r requirement.txt
 * python 56.py
 # Error 📍
 * When You Installing The Libraries An Error May So You Have To Install Libaries Like This [pip install Library Name]
