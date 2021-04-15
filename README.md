@@ -5,7 +5,7 @@
 * BIN Data
 * Packet Sniffer [SOON]
 * Availability Email
-* SubDomin
+* SubDomain
 * Reverse IP Finder
 * Domain Info
 * GEOIP Lookup 2
